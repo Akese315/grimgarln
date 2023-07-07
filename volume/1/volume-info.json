@@ -1,0 +1,122 @@
+{
+    "Volume" : 1,
+    "ChapterNum" : 22,
+    "Name" : "Whisper, Chant, Prayer, Awaken",
+    "CommentNum" : 0,
+    "Views" : 0,
+    "Released" : "June 25, 2013",
+    "Description" : "C'est la seule chose dont les jeunes de Hai à Gensō no Grimgar se souviennent avant de se réveiller dans un bâtiment inconnu dans un paysage médiéval plongé dans l'obscurité. Ils ne se souviennent de rien d'autre que de leur propre nom. Ce qui est plus étrange, c'est que parfois ils se surprennent à dire des mots qu'ils ne comprennent pas, même s'ils semblent si familiers. On dit au groupe d'étrangers que pour gagner leur vie, ils devraient rejoindre les forces de l'armée de réserve pour protéger la ville des monstres à proximité. Les personnes les plus fortes forment une équipe pour rejoindre l'armée de réserve et partir, laissant Manato, Haruhiro, Ranta, Yume, Moguzo et Shihoru livrés à eux-mêmes. Mais comment s'en sortiront-ils s'ils ne peuvent même pas vaincre le plus faible des monstres ? Né des cendres de leurs vieux souvenirs, l'équipe hétéroclite de six commence une nouvelle vie dans le monde de Grimgar.",
+    "Chapter" :
+    [
+        {
+            "ChapterNum" : 0,
+            "CommentNum" : 0,
+            "ChapterName" : "Eveil"
+        },
+        {
+            "ChapterNum" : 1,
+            "CommentNum" : 0,
+            "ChapterName" : "Toutes ces choses dont nous ignorons"
+        },
+        {
+            "ChapterNum" : 2,
+            "CommentNum" : 0,
+            "ChapterName" : "Perdu et confus"
+        },
+        {
+            "ChapterNum" : 3,
+            "CommentNum" : 0,
+            "ChapterName" : "Les joies de la vie a la Guilde"
+        },
+        {
+            "ChapterNum" : 4,
+            "CommentNum" : 0,
+            "ChapterName" : "Rencontre"
+        },
+        {
+            "ChapterNum" : 5,
+            "CommentNum" : 0,
+            "ChapterName" : "Guerrier perdu et trouvé"
+        },
+        {
+            "ChapterNum" : 6,
+            "CommentNum" : 0,
+            "ChapterName" : "Doux commencement"
+        },
+        {
+            "ChapterNum" : 7,
+            "CommentNum" : 0,
+            "ChapterName" : "entêté"
+        },
+        {
+            "ChapterNum" : 8,
+            "CommentNum" : 0,
+            "ChapterName" : "Lourdre résolution"
+        },
+        {
+            "ChapterNum" : 9,
+            "CommentNum" : 0,
+            "ChapterName" : "Damuro"
+        },
+        {
+            "ChapterNum" : 10,
+            "CommentNum" : 0,
+            "ChapterName" : "N'y vas pas !"
+        },
+        {
+            "ChapterNum" : 11,
+            "CommentNum" : 0,
+            "ChapterName" : "Quel chemin?"
+        },
+        {
+            "ChapterNum" : 12,
+            "CommentNum" : 0,
+            "ChapterName" : "Une pièce importante"
+        },
+        {
+            "ChapterNum" : 13,
+            "CommentNum" : 0,
+            "ChapterName" : "L'Argent et la pièce d'or"
+        },
+        {
+            "ChapterNum" : 14,
+            "CommentNum" : 0,
+            "ChapterName" : "Désolé"
+        },
+        {
+            "ChapterNum" : 15,
+            "CommentNum" : 0,
+            "ChapterName" : "Quand tu vises le haut du panier"
+        },
+        {
+            "ChapterNum" : 16,
+            "CommentNum" : 0,
+            "ChapterName" : "Précieux"
+        },
+        {
+            "ChapterNum" : 17,
+            "CommentNum" : 0,
+            "ChapterName" : "Ses circonstances"
+        },
+        {
+            "ChapterNum" : 18,
+            "CommentNum" : 0,
+            "ChapterName" : "Pour maintenant, demain"
+        },
+        {
+            "ChapterNum" : 19,
+            "CommentNum" : 0,
+            "ChapterName" : "La petite fierté des Globlin Slayers"
+        },
+        {
+            "ChapterNum" : 20,
+            "CommentNum" : 0,
+            "ChapterName" : "Innocence comme du papier"
+        },
+        {
+            "ChapterNum" : 21,
+            "CommentNum" : 0,
+            "ChapterName" : "Prologue"
+        }
+    ]
+}
