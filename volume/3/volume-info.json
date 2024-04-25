@@ -1,8 +1,35 @@
 {
-    "Volume" : 3,
-    "chapterNum" : 16,
-    "Name" : "You Have to Accept That Things Won't Always Go Your Way",
-    "CommentNum" : 0,
-    "Released" : "March 25, 2014",
-    "Description" : "Le plus grand défi des membres du groupe de Haruhiro à ce jour - leur toute première bataille de raid à grande échelle ! 'Choco... Attends, est-ce que ça pourrait être Choco...?' Haruhiro et ses camarades sont devenus célèbres grâce à des réalisations que personne n'attendait d'eux. Avec ses camarades plus confiants, Haruhiro se demande toujours quoi faire lorsque des soldats volontaires plus expérimentés viennent à lui. Parmi eux se trouve une fille dont le nom est encore dans les mémoires d'Haruhiro. Au même moment, la ville d'Alterna se déplace pour reprendre le Deadhead Watching Keep tenu par les orcs. Cherchant à gagner une partie de l'argent de la récompense, le groupe de Haruhiro finit par rejoindre son premier raid aux côtés de Renji et Choco. L'histoire du drame et de la haute fantaisie continue !"
+    "Volume": 3,
+    "chapterNum": 16,
+    "Name": "You Have to Accept That Things Won't Always Go Your Way",
+    "CommentNum": 0,
+    "Released": "March 25, 2014",
+    "Description": "Le plus grand défi des membres du groupe de Haruhiro à ce jour - leur toute première bataille de raid à grande échelle ! 'Choco... Attends, est-ce que ça pourrait être Choco...?' Haruhiro et ses camarades sont devenus célèbres grâce à des réalisations que personne n'attendait d'eux. Avec ses camarades plus confiants, Haruhiro se demande toujours quoi faire lorsque des soldats volontaires plus expérimentés viennent à lui. Parmi eux se trouve une fille dont le nom est encore dans les mémoires d'Haruhiro. Au même moment, la ville d'Alterna se déplace pour reprendre le Deadhead Watching Keep tenu par les orcs. Cherchant à gagner une partie de l'argent de la récompense, le groupe de Haruhiro finit par rejoindre son premier raid aux côtés de Renji et Choco. L'histoire du drame et de la haute fantaisie continue !",
+    "Chapter": [
+        {
+            "ChapterNum": 1,
+            "CommentNum": 0,
+            "ChapterName": "Statut social, talent et légère amertume"
+        },
+        {
+            "ChapterNum": 2,
+            "CommentNum": 0,
+            "ChapterName": "Statut social, talent et légère amertume"
+        },
+        {
+            "ChapterNum": 3,
+            "CommentNum": 0,
+            "ChapterName": "Statut social, talent et légère amertume"
+        },
+        {
+            "ChapterNum": 4,
+            "CommentNum": 0,
+            "ChapterName": "Statut social, talent et légère amertume"
+        },
+        {
+            "ChapterNum": 5,
+            "CommentNum": 0,
+            "ChapterName": "Statut social, talent et légère amertume"
+        }
+    ]
 }

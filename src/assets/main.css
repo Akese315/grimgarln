@@ -1,0 +1,22 @@
+*{
+  font-family: 'Nunito', sans-serif;
+}
+
+#app {
+  font-weight: normal;
+  overflow-x: hidden;
+  height: 100%;
+}
+
+body
+{
+  height: 100%;
+  margin : 0;
+  background-color: #181818;
+}
+
+
+html
+{
+  height: 100%;
+}
