@@ -14,7 +14,7 @@ export default{
         const route = useRoute();
         const init = async ()=>
         {
-            volume_details.value = await(await fetch(`https://grimgarln.fr/api/volumes-info=${route.params.vol_num}`)).json();
+            volume_details.value = await(await fetch(`/api/volumes-info=${route.params.vol_num}`)).json();
             console.log(volume_details.value)
         }
 
@@ -38,7 +38,7 @@ export default{
         <div class="volume-detail">
             <h1>Volume {{ $route.params.vol_num }} : {{ this.volume_details.Name }}</h1>
             <div class="details-container">
-               <div class="details-item"><img id="cover" :src="`https://grimgarln.fr/api/cover/${$route.params.vol_num }`"/></div>
+               <div class="details-item"><img id="cover" :src="`/api/cover/${$route.params.vol_num }`"/></div>
                <div class="details-item">
                     <p> <span style="font-style: italic;"> <span style="text-decoration: underline; ;">Description :</span>  {{ this.volume_details.Description }} </span></p>
                     <span class="sub-details">

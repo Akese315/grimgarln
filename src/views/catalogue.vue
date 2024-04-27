@@ -77,7 +77,7 @@ export default {
       {
         for(var i = 1; i<=volum_num; i++)
         {
-          const data = await(await fetch(`https://grimgarln.fr/api/volumes-info=${i}`)).json();
+          const data = await(await fetch(`/api/volumes-info=${i}`)).json();
           Catalogue.value.push(data)
         }
 
@@ -92,7 +92,7 @@ export default {
     },
     beforeMount()
     {
-      fetch("https://grimgarln.fr/api/volumes"
+      fetch("/api/volumes"
       ).then(response=> response.json()).then(data=>{
         this.setVolumes(data.volume_num)
       }).catch(error=>
